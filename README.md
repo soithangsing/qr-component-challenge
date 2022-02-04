@@ -38,8 +38,8 @@ In my first front-end mentors challenge I created this QR card component with CS
 ## Author
 
 - Website - [Soi Thangsing](https://soithangsing.github.io/portfolio-website-v1/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/soithangsing)
-- Twitter - [@yourusername](https://twitter.com/theofficialsoi)
+- Frontend Mentor - [@soithangsing](https://www.frontendmentor.io/profile/soithangsing)
+- Twitter - [@theofficialsoi](https://twitter.com/theofficialsoi)
 
 ## Acknowledgments
 
